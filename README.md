@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi. My name is Vincent Murukaa curently a BSIT student at the Technical University of Mombasa.
+## Im interested in general software development, systems admin, game development(starting out with foss godot and plan to move to a mainstream one in the future).
 
 <!--
 **vincent-murukaa/vincent-murukaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
